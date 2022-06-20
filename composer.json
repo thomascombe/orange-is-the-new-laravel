@@ -1,6 +1,7 @@
 {
     "name": "thomascombe/php-poo",
     "autoload": {
+        "files": [ "functions/dump.php" ],
         "psr-4": {
             "App\\": "app/"
         }
